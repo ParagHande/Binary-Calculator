@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(57, 57, 57);
+    text-align: center;
+    margin-top: 15%;
+}
+input{
+    width: 33%;
+    background-color:rgb(0, 0, 0) ;
+    height    : 60px;
+    font-size : 40px;
+    color     : white;
+    padding   : 0;
+    box-sizing: border-box;
+    border: solid white 2px;
+    text-align: right;
+    border-radius: 0.8rem;
+}
+#btn0, #btn1{
+    background-color: lightgreen;
+    color     :brown;
+
+}
+#btnClr, #btnEql{
+    background-color: darkgreen;
+    color     : white;
+}
+#btnSum, #btnSub, #btnMul, #btnDiv{
+    background-color: black;
+    color     :red;
+}
+div button{   
+    border-radius: 70% 30%;
+    width     :25%;
+    height    :50px;
+    font-size :30px;
+    margin    :0px;
+    float     :left;
+    border: solid white 1px;
+}
+#btns{
+ width: 33%;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+
